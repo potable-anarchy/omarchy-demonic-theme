@@ -1,6 +1,6 @@
 # Demonic Theme for Omarchy OS
 
-A dark red theme for Omarchy OS featuring atmospheric wallpapers and red text on very dark backgrounds.
+A dark red theme for Omarchy OS featuring atmospheric wallpapers and brightened red text on very dark backgrounds. Optimized for night vision with enhanced readability.
 
 ![Demonic Theme Screenshot](screenshot.png)
 
@@ -15,10 +15,9 @@ omarchy-theme-install https://github.com/potable-anarchy/omarchy-demonic-theme
 ## Theme Features
 
 - **Dark red color palette** with very dark backgrounds for excellent contrast
-- **Red text styling** across all applications
-- **Multiple wallpapers** included:
-  - Hooded figure in atmospheric red lighting
-  - Ritual circle with flames
+- **Brightened red text styling** across all applications for improved readability
+- **4 atmospheric wallpapers** included with demonic/ritual themes
+- **Theme thumbnail** for easy identification in theme selector
 - **Complete application coverage**:
   - Terminal (Alacritty)
   - Desktop (Hyprland)
@@ -45,3 +44,18 @@ omarchy-theme-install https://github.com/potable-anarchy/omarchy-demonic-theme
 ## Usage
 
 After installation, the theme will appear as "demonic" in the Omarchy theme selector. Select it to apply the complete theme across your desktop environment.
+
+## Uninstalling
+
+To remove the theme:
+
+```bash
+omarchy-theme-remove demonic
+```
+
+## What's Included
+
+- **Configuration files** for all major Omarchy applications
+- **4 high-quality wallpapers** (1-demonic.png through 4-demonic.png)
+- **Theme thumbnail** for the theme selector
+- **Consistent color scheme** across terminal, desktop, notifications, and system UI
