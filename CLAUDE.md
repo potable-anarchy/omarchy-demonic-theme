@@ -37,9 +37,8 @@ The Demonic theme uses these primary colors:
 
 ## File Structure
 
-All theme files are located in the `demonic/` directory:
+All theme files are located in the repository root:
 ```
-demonic/
 ├── alacritty.toml      # Terminal colors
 ├── hyprland.conf       # Window manager colors
 ├── waybar.css          # Status bar styling
