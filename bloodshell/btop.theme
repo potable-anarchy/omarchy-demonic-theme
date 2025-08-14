@@ -4,23 +4,23 @@
 theme[main_bg]="#0A0000"
 
 # Main text color
-theme[main_fg]="#E8D7D7"
+theme[main_fg]="#773333"
 
 # Title color for boxes
-theme[title]="#F7E7E7"
+theme[title]="#994444"
 
 # Highlight color for graphs and selected text
 theme[hi_fg]="#8B0000"
 
 # Color of selected item
 theme[selected_bg]="#3A0A0A"
-theme[selected_fg]="#F7E7E7"
+theme[selected_fg]="#994444"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#6B6363"
+theme[inactive_fg]="#552222"
 
 # Color of text appearing on top of graphs
-theme[graph_text]="#D7C7C7"
+theme[graph_text]="#663333"
 
 # Background color of the percentage meters
 theme[meter_bg]="#1A0000"
