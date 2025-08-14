@@ -1,0 +1,89 @@
+# Bloodshell theme for btop
+
+# Main background color
+theme[main_bg]="#0A0000"
+
+# Main text color
+theme[main_fg]="#E8D7D7"
+
+# Title color for boxes
+theme[title]="#F7E7E7"
+
+# Highlight color for graphs and selected text
+theme[hi_fg]="#8B0000"
+
+# Color of selected item
+theme[selected_bg]="#3A0A0A"
+theme[selected_fg]="#F7E7E7"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#6B6363"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#D7C7C7"
+
+# Background color of the percentage meters
+theme[meter_bg]="#1A0000"
+
+# Misc colors for processes box
+theme[proc_misc]="#CD853F"
+
+# CPU box outline color
+theme[cpu_box]="#4A0A0A"
+
+# Memory/disks box outline color
+theme[mem_box]="#4A0A0A"
+
+# Net up/down box outline color
+theme[net_box]="#4A0A0A"
+
+# Processes box outline color
+theme[proc_box]="#4A0A0A"
+
+# Box divider line and small boxes line color
+theme[div_line]="#4A0A0A"
+
+# Temperature graph colors
+theme[temp_start]="#5C8B5C"
+theme[temp_mid]="#CD853F"
+theme[temp_end]="#CC0000"
+
+# CPU graph colors
+theme[cpu_start]="#4A5A8B"
+theme[cpu_mid]="#8B4A6B"
+theme[cpu_end]="#CC0000"
+
+# Mem/Disk free meter
+theme[free_start]="#5C8B5C"
+theme[free_mid]="#5C8B8B"
+theme[free_end]="#4A5A8B"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8B4A6B"
+theme[cached_mid]="#CD853F"
+theme[cached_end]="#CC0000"
+
+# Mem/Disk available meter
+theme[available_start]="#5C8B5C"
+theme[available_mid]="#CD853F"
+theme[available_end]="#CC0000"
+
+# Mem/Disk used meter
+theme[used_start]="#6B0000"
+theme[used_mid]="#8B0000"
+theme[used_end]="#CC0000"
+
+# Download graph colors
+theme[download_start]="#4A5A8B"
+theme[download_mid]="#5C8B8B"
+theme[download_end]="#7CABAB"
+
+# Upload graph colors
+theme[upload_start]="#8B4A6B"
+theme[upload_mid]="#AB6A8B"
+theme[upload_end]="#CD5C5C"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#5C8B5C"
+theme[process_mid]="#CD853F"
+theme[process_end]="#CC0000"

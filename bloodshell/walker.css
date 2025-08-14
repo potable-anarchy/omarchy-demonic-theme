@@ -1,0 +1,60 @@
+/* Bloodshell Walker Theme */
+
+#window {
+    background-color: rgba(10, 0, 0, 0.95);
+    color: #E8D7D7;
+}
+
+#box {
+    background-color: transparent;
+    padding: 10px;
+}
+
+#search {
+    background-color: #1A0000;
+    color: #E8D7D7;
+    border: 2px solid #4A0A0A;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#search:focus {
+    border-color: #8B0000;
+}
+
+#list {
+    background-color: transparent;
+}
+
+#item {
+    background-color: transparent;
+    color: #D7C7C7;
+    padding: 8px 12px;
+    border-radius: 6px;
+    margin: 2px 0;
+}
+
+#item:hover {
+    background-color: #3A0A0A;
+    color: #E8D7D7;
+}
+
+#item:selected {
+    background-color: #6B0000;
+    color: #F7E7E7;
+}
+
+#item-icon {
+    margin-right: 8px;
+}
+
+#item-name {
+    font-weight: bold;
+}
+
+#item-description {
+    color: #A89898;
+    font-size: 14px;
+}

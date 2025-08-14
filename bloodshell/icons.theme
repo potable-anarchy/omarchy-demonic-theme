@@ -1,0 +1,24 @@
+[Icon Theme]
+Name=Bloodshell
+Comment=Dark red icon theme for Omarchy
+Inherits=Papirus-Dark,Adwaita
+Example=folder
+
+# Directory list
+Directories=scalable/places,scalable/apps,scalable/actions,scalable/status
+
+[scalable/places]
+Size=48
+Type=Scalable
+
+[scalable/apps]
+Size=48
+Type=Scalable
+
+[scalable/actions]
+Size=22
+Type=Scalable
+
+[scalable/status]
+Size=22
+Type=Scalable
