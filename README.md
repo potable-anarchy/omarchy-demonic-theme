@@ -1,4 +1,4 @@
-# Bloodshell Theme for Omarchy OS
+# Demonic Theme for Omarchy OS
 
 A dark red theme for Omarchy OS featuring atmospheric wallpapers and red text on very dark backgrounds.
 
@@ -7,7 +7,7 @@ A dark red theme for Omarchy OS featuring atmospheric wallpapers and red text on
 Install this theme using the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/[your-username]/omarchy-bloodshell-theme
+omarchy-theme-install https://github.com/[your-username]/omarchy-demonic-theme
 ```
 
 ## Theme Features
@@ -33,13 +33,13 @@ omarchy-theme-install https://github.com/[your-username]/omarchy-bloodshell-them
 - **Primary Background**: `#0A0000` (very dark red)
 - **Secondary Background**: `#1A0000` (dark red)
 - **Accent Background**: `#3A0A0A` (medium dark red)
-- **Primary Text**: `#773333` (dark red - night vision friendly)
-- **Bright Text**: `#994444` (medium dark red)
-- **Secondary Text**: `#663333` (muted dark red)
-- **Inactive Text**: `#552222` (very dim red)
+- **Primary Text**: `#AA5555` (medium red - night vision friendly)
+- **Bright Text**: `#CC6666` (bright red)
+- **Secondary Text**: `#994444` (muted red)
+- **Inactive Text**: `#883333` (dim red)
 - **Highlight/Accent**: `#8B0000` (dark red)
 - **Active/Focus**: `#CC0000` (bright red)
 
 ## Usage
 
-After installation, the theme will appear as "bloodshell" in the Omarchy theme selector. Select it to apply the complete theme across your desktop environment.
+After installation, the theme will appear as "demonic" in the Omarchy theme selector. Select it to apply the complete theme across your desktop environment.

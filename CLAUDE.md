@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the **Bloodshell** theme for Omarchy OS - a cohesive dark red color scheme for Linux desktop applications and window managers. The theme uses a consistent dark red/burgundy palette across all supported applications.
+This is the **Demonic** theme for Omarchy OS - a cohesive dark red color scheme for Linux desktop applications and window managers. The theme uses a consistent dark red/burgundy palette across all supported applications.
 
 ## Architecture
 
@@ -24,22 +24,22 @@ The repository contains configuration files for various Linux applications, all 
 
 ## Color Palette
 
-The Bloodshell theme uses these primary colors:
+The Demonic theme uses these primary colors:
 - **Primary Background**: `#0A0000` (very dark red)
 - **Secondary Background**: `#1A0000` (dark red)
 - **Accent Background**: `#3A0A0A` (medium dark red)
-- **Primary Text**: `#773333` (dark red - night vision friendly)
-- **Bright Text**: `#994444` (medium dark red)
-- **Secondary Text**: `#663333` (muted dark red)
-- **Inactive Text**: `#552222` (very dim red)
+- **Primary Text**: `#AA5555` (medium red - night vision friendly)
+- **Bright Text**: `#CC6666` (bright red)
+- **Secondary Text**: `#994444` (muted red)
+- **Inactive Text**: `#883333` (dim red)
 - **Highlight/Accent**: `#8B0000` (dark red)
 - **Active/Focus**: `#CC0000` (bright red)
 
 ## File Structure
 
-All theme files are located in the `bloodshell/` directory:
+All theme files are located in the `demonic/` directory:
 ```
-bloodshell/
+demonic/
 ├── alacritty.toml      # Terminal colors
 ├── hyprland.conf       # Window manager colors
 ├── waybar.css          # Status bar styling
@@ -51,7 +51,7 @@ bloodshell/
 ├── hyprlock.conf       # Lock screen config
 ├── icons.theme         # Icon theme config
 └── backgrounds/        # Wallpaper files
-    └── 1-bloodshell.svg
+    └── *.png
 ```
 
 ## Theme Implementation Notes
