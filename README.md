@@ -16,7 +16,7 @@ omarchy-theme-install https://github.com/potable-anarchy/omarchy-demonic-theme
 
 - **Dark red color palette** with very dark backgrounds for excellent contrast
 - **Brightened red text styling** across all applications for improved readability
-- **4 atmospheric wallpapers** included with demonic/ritual themes
+- **8 atmospheric wallpapers** included with demonic/ritual themes (4 original + 4 authentic pixel art versions)
 - **Theme thumbnail** for easy identification in theme selector
 - **Complete application coverage**:
   - Terminal (Alacritty)
@@ -56,6 +56,6 @@ omarchy-theme-remove demonic
 ## What's Included
 
 - **Configuration files** for all major Omarchy applications
-- **4 high-quality wallpapers** (1-demonic.png through 4-demonic.png)
+- **8 high-quality wallpapers** (4 original + 4 authentic pixel art versions)
 - **Theme thumbnail** for the theme selector
 - **Consistent color scheme** across terminal, desktop, notifications, and system UI
