@@ -2,12 +2,14 @@
 
 A dark red theme for Omarchy OS featuring atmospheric wallpapers and red text on very dark backgrounds.
 
+![Demonic Theme Screenshot](screenshot.png)
+
 ## Installation
 
 Install this theme using the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/[your-username]/omarchy-demonic-theme
+omarchy-theme-install https://github.com/potable-anarchy/omarchy-demonic-theme
 ```
 
 ## Theme Features
